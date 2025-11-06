@@ -88,7 +88,9 @@ The welcome.java screen is styled with Swing components:
 👨‍💻 Developer
 
 Author: Sparsh Joshi
+
 GitHub: @sparshhjoshi￼
+
 Project: Bank Management System
 
 ⸻
